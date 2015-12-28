@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TeaTimerSwitch", "TeaTimerSwitch.vcproj", "{309C87AB-F98A-4B69-B93D-2A48AAC535F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{309C87AB-F98A-4B69-B93D-2A48AAC535F8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{309C87AB-F98A-4B69-B93D-2A48AAC535F8}.Debug|Win32.Build.0 = Debug|Win32
+		{309C87AB-F98A-4B69-B93D-2A48AAC535F8}.Release|Win32.ActiveCfg = Release|Win32
+		{309C87AB-F98A-4B69-B93D-2A48AAC535F8}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

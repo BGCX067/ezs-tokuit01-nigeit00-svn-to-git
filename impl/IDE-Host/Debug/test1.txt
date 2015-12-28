@@ -1,0 +1,34 @@
+#Normaler Funktionstest
+#Start 
++4 
+# Zeitsetzen
+s1
+#
++4
+#
+s1
+#
++4
+# Starten des countdowns
+s4 
+# 10 Sekunden
++1000 
+# Beepen On
++100
+# Beepen Off
++100
+# Beepen On
++100
+# Beepen Off
++100
+# Beepen On
++100
+# Beepen Off
++100
+# Beepen On
++100
+# Beepen Off
++100
+# Beepen Off
++100
+# Fertig

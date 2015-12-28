@@ -1,0 +1,40 @@
+#Normaler funktionstest mit laden der alten Preset Time
+#Start 
++4 
+# Zeitsetzen
+s1
+#
++4
+#
+s1
+# Starten des countdowns
+s4 
+# 10 Sekunden
++1000 
+# Beepen On
++100
+# Beepen Off
++100
+# Beepen On
++100
+# Beepen Off
++100
+# Beepen On
++100
+# Beepen Off
++100
+# Beepen On
++100
+# Beepen Off
++100
+# Beepen Off
++100
+# 
+s1
+# Laden der alten Preset
+s3
+#
+s4
+# Starten des Countdowns 
++1000
+#
